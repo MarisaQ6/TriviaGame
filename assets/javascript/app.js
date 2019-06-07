@@ -1,17 +1,45 @@
 // Javascript starts here
 $(document).ready(function()){
 
+    // set up game var and questions
+
     var game = {
         questions: [
             {
                 question 1: 'What is the real name of the machete wielding killer from Camp Crystal?'
+                
                 possible answers: ["Jack Torrance", "Freddy Krueger", "John Kramer", "Jason Voorhees", "George Lutz"],
                 id: 'question-one',
-                answer: 1
+                answer: 3
             }, {
 
-                question 2: 'In what sleepy town was famed hotel, The Overlook, in Stephen King's 1980 film "The Shining?"'
+                question 2: 'In what sleepy town was famed hotel, The Overlook, in the 1980 film "The Shining?"'
+                
                 possible answers: ["Boulder, CO", "Denver, CO", "Nightfall, CO", "Estes Park, CO", "Sidewinder, CO"]
+                id: 'question-two',
+                answer: 4
+
+                question 3: 'Who were the original killers behind the iconic "Ghostface" mask in the Scream franchise?'
+                
+                possible answers: ["Kieran & Hester", "Billy & Stu", "Sidney & Gale", "Cotton & Dewey ", "Drew & Neve"]
+                id: 'question-three';
+                answer: 1
+
+                question 4: 'What is the name of the eternal little girl in "Interview with the Vampire"?'
+                
+                possible answers: ["Claudia", "Monica", "Margarette", "Claudette", "Bridgette"]
+                id: 'question-four'
+                answer: 0
+
+                question 5: ''
+                
+                possible answers: []
+                id:
+                answer:
+
+
+                
+                
 
 
             }
