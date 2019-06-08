@@ -9,14 +9,14 @@ $(document).ready(function()){
                 question 1: 'What is the real name of the machete wielding killer from Camp Crystal?'
                 
                 possible answers: ["Jack Torrance", "Freddy Krueger", "John Kramer", "Jason Voorhees", "George Lutz"],
-                id: 'question-one',
+                id: 'question-one';
                 answer: 3
             }, {
 
                 question 2: 'In what sleepy town was famed hotel, The Overlook, in the 1980 film "The Shining?"'
                 
                 possible answers: ["Boulder, CO", "Denver, CO", "Nightfall, CO", "Estes Park, CO", "Sidewinder, CO"]
-                id: 'question-two',
+                id: 'question-two';
                 answer: 4
 
                 question 3: 'Who were the original killers behind the iconic "Ghostface" mask in the Scream franchise?'
@@ -28,14 +28,14 @@ $(document).ready(function()){
                 question 4: 'What is the name of the eternal little girl in "Interview with the Vampire"?'
                 
                 possible answers: ["Claudia", "Monica", "Margarette", "Claudette", "Bridgette"]
-                id: 'question-four'
+                id: 'question-four';
                 answer: 0
 
-                question 5: ''
+                question 5: 'What was the name of the killer in the psychological thriller "Silence of the Lambs?"'
                 
-                possible answers: []
-                id:
-                answer:
+                possible answers: ["Clarice Starling", "Jack Crawford", "Buffalo Bill", "Hannibal Lector", "Precious"]
+                id: 'question-five';
+                answer: 2
 
 
                 
