@@ -22,7 +22,7 @@
                 possibleAnswers: ["Kieran & Hester", "Billy & Stu", "Sidney & Gale", "Cotton & Dewey ", "Drew & Neve"],
                 id: 'question-three',
                 answer: 1
-            {}
+            {
                 question_Four: 'What is the name of the eternal little girl in "Interview with the Vampire"?',
                 possibleAnswers: ["Claudia", "Monica", "Margarette", "Claudette", "Bridgette"],
                 id: 'question-four',
